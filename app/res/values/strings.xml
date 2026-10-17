@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MAC 修改器</string>
+
+    <style name="AppTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#0E1116</item>
+        <item name="android:colorAccent">#4C8DFF</item>
+        <item name="android:statusBarColor">#0E1116</item>
+        <item name="android:navigationBarColor">#0E1116</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:textColorPrimary">#EDEFF2</item>
+        <item name="android:textColorSecondary">#9BA3AF</item>
+        <item name="android:colorEdgeEffect">#4C8DFF</item>
+    </style>
+</resources>
